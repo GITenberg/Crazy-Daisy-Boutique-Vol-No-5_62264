@@ -1,5 +1,8 @@
 _repo: Crazy-Daisy-Boutique-Vol-No-5_62264
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62264-h/images/cover.jpg
 creator:
   author:
     agent_name: Scovill Manufacturing Company
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '51869'
     url: http://www.gutenberg.org/2009/agents/51869
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62264#Crazy-Daisy-Boutique-Vol-No-5
 gutenberg_issued: '2020-05-28'
 gutenberg_type: Text
 identifiers:
