@@ -1,0 +1,26 @@
+_repo: Crazy-Daisy-Boutique-Vol-No-5_62264
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scovill Manufacturing Company
+    aliases:
+    - Hamilton Beach Company
+    - Scovill Mfg. Co.
+    - Scoville Manufacturing Company
+    gutenberg_agent_id: '51869'
+    url: http://www.gutenberg.org/2009/agents/51869
+description: ''
+gutenberg_issued: '2020-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62264'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crocheting -- Patterns'
+- !lcc 'TT'
+- GITenberg
+title: '"Crazy Daisy" Boutique, Vol. No. 5'
+url: http://www.gutenberg.org/ebooks/62264
